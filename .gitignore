@@ -18,4 +18,4 @@ __pycache__/
 *.mat
 *.csv
 *.h5
-./archive
+./archive/
