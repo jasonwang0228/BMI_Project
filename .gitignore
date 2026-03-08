@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+
+# macOS
+.DS_Store
+
+# Data files (optional — add if your data files are large)
+*.mat
+*.csv
+*.h5
+./archive
